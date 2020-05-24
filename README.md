@@ -1,0 +1,2 @@
+# TradingOnline
+Fundamentos de Trader
